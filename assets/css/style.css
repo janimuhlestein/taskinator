@@ -40,9 +40,10 @@ li {
 
 form {
   display: flex;
-  align-items: flex-end;
-  flex-wrap: wrap;
+  align-items: center;
+  flex-flow: row wrap;
 }
+
 
 form input {
   outline: none;
